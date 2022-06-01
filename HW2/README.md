@@ -1,5 +1,5 @@
 # Homework 2
-- This code was developed in February, 2022.
+- This code was developed in March, 2022.
 - We're going to examine a convolutional neural network (CNN) used for classifying images in the CIFAR-10 dataset. 
     - Each input image is 32x32 pixels with red/green/blue channels for a total size of 32x32x3.
     - The model has two convolutional layers, followed by 2 fully connected layers:
