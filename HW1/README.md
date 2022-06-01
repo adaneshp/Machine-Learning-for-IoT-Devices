@@ -1,4 +1,7 @@
 # Homework 1
+
+- This code was developed in February, 2022.
+
 In this assignment you will gain some familiarity with the git revision control system and the Python programming language.  These are both core infrastructure that will be necessary to succeed in the rest of the class.
 ## Programming Tasks
 
